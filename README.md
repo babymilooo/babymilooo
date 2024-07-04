@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babymilooo" alt="babymilooo" /></a> </p>
 
-- 🔭 I’m currently working on **CHRONOS**
-
-- 🌱 I’m currently learning **NEXT JS, REACT**
+- 🌱 I’m currently learning **NEST JS**
 
 - 📫 How to reach me **abahaslaplay@gmail.com**
 
