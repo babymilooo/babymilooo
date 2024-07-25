@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
-<h3 align="center">Hi, i'm 19 years old student from Ukraine 🇺🇦. I am getting a bachelor's degree at NTU KhPI, I am also a student of the innovative campus of NTU KhPI.</h3>
+<h3 align="center">Hi, i'm 20 years old student from Ukraine 🇺🇦. I am getting a bachelor's degree at NTU KhPI, I am also a student of the innovative campus of NTU KhPI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babymilooo&label=Profile%20views&color=0e75b6&style=flat" alt="babymilooo" /> </p>
 
