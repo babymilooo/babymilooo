@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NEST JS**
 
-- 📫 How to reach me **abahaslaplay@gmail.com**
+- 📫 How to reach me **kyryloyehorov822@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
